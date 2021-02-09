@@ -1,0 +1,11 @@
+.token.txt
+.test_token.txt
+
+__pycache__/
+bot/__pycache__/
+bot/modules/__pycache__/
+
+*.py[cod]
+
+.DS_Store/
+.idea/
